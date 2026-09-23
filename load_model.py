@@ -96,3 +96,4 @@ if __name__ == "__main__":
         app = DigitRecognizerApp(model)
         app.mainloop()
 awrgwg
+prova
