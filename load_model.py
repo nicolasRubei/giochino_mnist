@@ -95,3 +95,4 @@ if __name__ == "__main__":
     if model:
         app = DigitRecognizerApp(model)
         app.mainloop()
+awrgwg
